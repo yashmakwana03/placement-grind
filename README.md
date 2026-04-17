@@ -4,7 +4,6 @@
 
 Placement Grind is a premium, offline-first Flutter application designed specifically for Computer Science students to streamline their campus placement preparation. It helps you track daily tasks, manage XP, level up your skills, and stay motivated throughout the journey.
 
-![Placement Grind Hero](placement_grind_hero_1776437432440.png)
 
 ## ✨ Features
 
