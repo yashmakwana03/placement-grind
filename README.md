@@ -44,12 +44,4 @@ To get a local copy up and running, follow these simple steps:
    ```sh
    flutter run
    ```
-
-## 📸 Screenshots
-*(Add your app screenshots here!)*
-
-## 📄 License
-Distributed under the MIT License. See `LICENSE` for more information.
-
 ---
-Created with ❤️ by [Yash Makwana](https://github.com/yashmakwana03)
